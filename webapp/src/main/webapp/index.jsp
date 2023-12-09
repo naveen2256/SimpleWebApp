@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Mana Trends Macha</title>
+    <title>Pushpa the rule</title>
     <link rel="stylesheet" href="style.css">
 <style>
 	*{
@@ -89,7 +89,7 @@ h1{
     
     <section id="home">
         <header>
-            <span style="font-size:64px;margin-right:10px;color:orange">Mana Trends macha</span>
+            <span style="font-size:64px;margin-right:10px;color:orange">Pushpa trailer launch event</span>
             <ul id="menu">
                 <li><a href="#home">Home</a></li>
                 <li><a href="#about">About Us</a></li>
@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> Happy makara sankranthi </h1>   
+         <h1> Pushpa Trailer releasing soon </h1>   
 	 
 
     </section>    
