@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Amazon shopping website</title>
+    <title>Flipkart shopping website</title>
     <link rel="stylesheet" href="style.css">
 <style>
 	*{
@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> Merry christmas </h1>   
+         <h1> Happy New Year </h1>   
 	 
 
     </section>    
