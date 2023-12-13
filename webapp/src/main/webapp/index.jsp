@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> Pushpa Trailer releasing soon </h1>   
+         <h1> Pushpa Trailer releasing soon dinesh </h1>   
 	 
 
     </section>    
