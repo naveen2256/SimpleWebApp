@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Sandhulo sundari 1.0</title>
+    <title>Sandhulo sundari</title>
     <link rel="stylesheet" href="style.css">
 <style>
 	*{
